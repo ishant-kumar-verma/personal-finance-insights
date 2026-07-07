@@ -1,7 +1,7 @@
 # 💰 Personal Finance Insights Dashboard
 
 ![Dashboard Preview](https://github.com/ishant-kumar-verma/personal-finance-insights/blob/main/personal_finance_dashboard/personal_finance_dashboard.png)
-(https://github.com/ishant-kumar-verma/personal-finance-insights/blob/main/personal_finance_dashboard2.png)
+![Dashboard Preview](https://github.com/ishant-kumar-verma/personal-finance-insights/blob/main/personal_finance_dashboard2.png)
 
 ## 📌 Overview
 
